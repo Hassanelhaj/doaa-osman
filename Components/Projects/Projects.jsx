@@ -1,6 +1,8 @@
 import React from 'react'
 import SubTitle from '../SubTitle'
 import Articles from './articles/Articles'
+import VedioList from './reals/VediosList'
+
 
 
 const Projects = () => {
@@ -11,6 +13,8 @@ const Projects = () => {
       <div>
   
         <Articles/>
+        <VedioList/>
+        
       </div>
     
 
